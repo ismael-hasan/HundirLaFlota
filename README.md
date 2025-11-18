@@ -1,7 +1,7 @@
 # Hundir la flota
 
 ## Introducción
-
+Ismael ya lo ha editado
 Este es el ejercicio de programación básica para la 1ª evaluación de programación en DAM. Es un ejercicio pensado para hacer en conjunto. En este ejercicio de programación básica practicaremos: 
 
 - Uso de bucles
